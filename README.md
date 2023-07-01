@@ -5,3 +5,5 @@ The idea is to attempt to implement it in the most efficient way possible, and t
 * Macro Implementation of Functions:<br>All functions are implemented as macros, which has two outcomes:
     * The program doesn't waste time calling functions.
     * During compilation, all code is "spilled" into one big file, allowing the compiler to optimize the code more efficiently
+
+The sieve is then used in example steganography.
